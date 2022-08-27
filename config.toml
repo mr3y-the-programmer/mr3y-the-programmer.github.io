@@ -1,0 +1,4 @@
+baseURL = "https://mr3y-the-programmer.github.io/"
+languageCode = "en-us"
+title = "Mr3y"
+theme = "paper"

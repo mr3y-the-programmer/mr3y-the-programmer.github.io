@@ -1,3 +1,3 @@
-[submodule "themes/paper"]
-	path = themes/paper
-	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus

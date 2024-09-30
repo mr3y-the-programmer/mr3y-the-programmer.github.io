@@ -1,6 +1,6 @@
 baseURL = "https://mr3y-the-programmer.github.io/"
 languageCode = "en-us"
-title = "Mr3y"
+title = "Abdelrahman Khairy"
 theme = "archie"
 
 [[menu.main]]
@@ -9,16 +9,16 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
+name = "About"
+url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Blog"
+url = "/posts"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Projects"
+url = "/projects"
 weight = 4

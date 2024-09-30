@@ -20,6 +20,11 @@ name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/abdelrahman-khiry/"
 
+[[params.social]]
+name = "Mastodon"
+icon = "mastodon"
+url = "https://mastodon.social/@mr3yy"
+
 # Main menu Items
 
 [[menu.main]]

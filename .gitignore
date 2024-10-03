@@ -6,3 +6,4 @@ public/sitemap.xml
 public/404.html
 **/index.html
 **/index.xml
+public/**/*.jpg

@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Abdelrahman Khairy"
 theme = "archie"
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 mode="toggle" # color-mode → light,dark,toggle or auto
 useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.

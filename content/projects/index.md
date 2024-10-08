@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Podcaster  [Github Link](https://github.com/mr3y-the-programmer/Podcaster) | [Google Play](https://play.google.com/store/apps/details?id=com.mr3y.podcaster)
-Free Open-Source Podcast listening app
+Free Open-Source Podcast listening app.
 <p align="center">
 <img src="/projects/podcaster_banner.jpg" width="100%" height="30%" />
 </p>
@@ -26,7 +26,7 @@ Free Open-Source Podcast listening app
 </details>
 
 ## Ludi  [Github Link](https://github.com/mr3y-the-programmer/Ludi) | [Google Play](https://play.google.com/store/apps/details?id=com.mr3y.ludi)
-Kotlin multiplatform app(Android + Desktop) For browsing & discovering new video games, and RSS gaming news feed reader
+Kotlin multiplatform app(Android + Desktop) For browsing & discovering new video games, and RSS gaming news feed reader.
 <p align="center">
 <img src="/projects/ludi_banner.png" width="100%" height="30%" />
 </p>
@@ -73,7 +73,7 @@ Scase's product is a diagnostic solution that consists of a portable, point-of-c
 <summary><b>As part of my work there, I worked on: (Click to expand)</b></summary>
 
 * Developed & maintained the Point of care medical device app new features using Android modern tech stack (Jetpack Compose UI, Room, WorkManager, Navigation).
-* Implemented a table UI view using Jetpack compose UI that allowed patients to see their (glucometer, blood pressure, weight…etc.) measurements throughout a specific period.
+* Implemented a table UI view using Jetpack compose UI that allowed patients to see their (glucometer, blood pressure, weight) measurements throughout a specific period.
 * Collaborated with the backend team to migrate patients & doctors data schema without causing any data loss or corruption.
 * Worked on implementing CI pipeline using Gitlab CI to build & test our codebase continuously.
 * Cut down codebase’s gradle build time by 20% by utilizing Gradle build Scans + gradle profiler to pinpoint bottlenecks and get actionable insights to act accordingly.

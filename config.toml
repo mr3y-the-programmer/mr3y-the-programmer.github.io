@@ -15,7 +15,7 @@ subtitle="Software Mobile Engineer"
 useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 
 # Social Tags
-
+# Archie theme uses feather icons library to render these icons, make sure the icon does exist in the icons library or add a custom svg
 [[params.social]]
 name = "GitHub"
 icon = "github"
@@ -30,11 +30,6 @@ url = "https://x.com/abdelrh_khairy"
 name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/abdelrahman-khiry/"
-
-[[params.social]]
-name = "Mastodon"
-icon = "mastodon"
-url = "https://mastodon.social/@mr3yy"
 
 # Main menu Items
 

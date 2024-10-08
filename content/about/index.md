@@ -13,3 +13,5 @@ I’ve been working on Android since 2021 — mostly on apps. but, I also have s
 I like learning new technologies, adopting new approaches, and exploring new languages.
 
 Fun fact: when I'm not coding, I'm either watching new animes or hanging out with friends.
+
+Do you have an idea for a mobile app project? or simply want to chat? Don't hesitate to reach out and connect with me.
